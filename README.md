@@ -19,8 +19,7 @@ DishVision/
 │   ├── components/      # UI components
 │   ├── services/        # Model and business logic
 │   ├── utils/          # Utility functions and logging
-│   ├── config/         # Configuration files
-│   └── app.py          # Secondary entry point
+│   └── config/         # Configuration files
 ├── logs/               # Application logs
 ├── tests/             # Test files
 ├── main.py            # Main entry point
