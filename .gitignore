@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Logs
+logs/
+*.log
+
+# Local development settings
+.env
+.env.local
+.env.*.local
+
+# API keys and secrets
+*.pem
+*.key
+*.cert
+
+# Database
+*.db
+*.sqlite3
+*.sqlite
+
+# Documentation
+docs/_build/
+site/
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# Media files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.mov
+*.mp4
+*.mp3
+*.flv
+*.avi
+
+# Exceptions (add below any media files you want to track)
+!assets/*.jpg
+!assets/*.png
+!assets/*.ico
